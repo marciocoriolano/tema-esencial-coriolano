@@ -1,10 +1,10 @@
-# 🎨 Tema Esencial Coriolano
+# Tema Esencial por Coriolano
 
-Tema mínimo para WordPress, limpio y funcional, compatible con Elementor Canvas. Ideal para emprendedores de habla hispana que desean una base ligera para construir su sitio web.
+Tema mínimo para WordPress, limpio y funcional, compatible con Elementor Canvas. Ideal para emprendedores que desean una base ligera para construir su sitio web.
 
 ---
 
-## 🚀 ¿Qué hace este tema?
+## ¿Qué hace este tema?
 
 - Elimina estilos innecesarios.
 - Compatible con modo Canvas de Elementor.
@@ -13,7 +13,7 @@ Tema mínimo para WordPress, limpio y funcional, compatible con Elementor Canvas
 
 ---
 
-## 🧰 Instalación
+## Instalación
 
 1. Descarga este repositorio como `.zip` o clónalo.
 2. Sube la carpeta `tema-esencial-coriolano` a `/wp-content/themes/`.
@@ -22,13 +22,13 @@ Tema mínimo para WordPress, limpio y funcional, compatible con Elementor Canvas
 
 ---
 
-## ✍️ Autor
+##  Autor
 
 **Coriolano**  
 [https://coriolano.net](https://coriolano.net)
 
 ---
 
-## ⚖️ Licencia
+## Licencia
 
 Distribuido bajo la licencia GPL v2 o posterior.
